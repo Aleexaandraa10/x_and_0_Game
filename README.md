@@ -1,4 +1,4 @@
-# ❌⭕ X and 0 Game (MinMax & Alpha-Beta AI)
+#  X and 0 Game (MinMax & Alpha-Beta AI)
 
 This is a simple implementation of the classic **Tic-Tac-Toe** game in Python using **PyGame** for the graphical interface and **AI algorithms** (MinMax and Alpha-Beta Pruning) for the computer opponent.
 
